@@ -8,7 +8,7 @@
             "type": "pwa-chrome",
             "request": "launch",
             "name": "Open index.html",
-            "file": "d:\\Oneify\\website\\Oneify\\index.html"
+            "file": "d:\\Snazzerra\\website\\Snazzerra\\index.html"
         }
     ]
 }
